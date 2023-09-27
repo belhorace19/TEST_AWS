@@ -1,0 +1,80 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+fieldset{
+    margin-top:70px;
+    margin: 70px auto 0 auto;
+    width: 28%;
+    background-color:#318CE7 ;
+    box-shadow: 5px 5px 20px 1px 10px rgb(85,85,85);
+    border:0px;
+    padding-left:10px;
+    border-radius: 10px 10px 10px; 
+    color: white;
+    height: 350px;    
+}
+td{letter-spacing:1px;}
+h1{
+    font-family:andalus;
+    letter-spacing:3px;
+    text-align:center;
+    color:white;
+}
+hr{
+    border:5px solid white;
+    border-radius: 10px;
+    width:100px;    
+}
+#submit{
+margin:35px 35px;
+color:#318CE7;
+background-color:white;
+width:70%;
+font-size:20px;
+border-radius:20px;
+border:1px solid white;
+padding:8px;
+margin-left:80px;
+}
+ul li { margin-left: 20px;color: white;}
+#submit:hover{
+    color:white;
+    background-color:#aaff00;
+
+}
+input{
+    font-size:20px;
+    border:none;
+    outline:non;
+    background:none;
+    border-bottom:1px solid white;
+    color:white;
+    width:100%;
+    margin-left:10px;
+}
+
+/* pour la liste des participants */
+#liste {
+    margin-top:70px;
+    margin: 70px auto 0 auto;
+    padding: 40px;
+    width: 70%;
+    background-color:#318CE7 ;
+    box-shadow: 5px 5px 20px 1px 10px rgb(85,85,85);
+    border:0px;
+    /* padding-left:10px; */
+    border-radius: 10px 10px 10px; 
+    color: white;
+    height: auto;    
+} 
+
+#table{
+    /* border: 1px solid black; */
+    margin: 5px auto;
+    width: 800px;
+    /* height: 100px; */
+}
+#value{
+    text-align: center;
+}
